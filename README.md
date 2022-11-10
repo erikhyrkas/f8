@@ -8,7 +8,7 @@ I thought would be useful on its own while I continue my work on microml.
 I'm Erik Hyrkas. I'm a generalist. I code, but I also write science fiction and fantasy books, create video games, 
 and thrive on creating and learning new things.
 
-## And why would use this code written by me?
+## And why would use code written by me?
 I have done everything from application development to information security to cloud architecture to data engineering. 
 I've built or rebuilt different technologies that exist to either make them better or to learn from them. Some of them
 were created as paid work when these technologies were still sparkling and new and there was no clear dominate market
