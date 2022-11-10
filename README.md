@@ -4,7 +4,7 @@ Simple 8-bit Float Implementation
 This code is part of my microml project, which I will release when it is finished. I simply wanted to release what
 I thought would be useful on its own while I continue my work on microml.
 
-Open the code to read all about how floating point numbers work, especially 8-bit floating point numbers.
+Open the code (src/quarter_float.hpp) to read all about how floating point numbers work, especially 8-bit floating point numbers.
 
 # Who is Erik Hyrkas
 I'm Erik Hyrkas. I'm a generalist. I code, but I also write science fiction and fantasy books, create video games, 
