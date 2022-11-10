@@ -2,7 +2,7 @@
 Simple 8-bit Float Implementation
 
 This code is part of my microml project, which I will release when it is finished. I simply wanted to release what
-I've built so far in case it was useful on its own.
+I thought would be useful on its own while I continue my work on microml.
 
 # Who is Erik Hyrkas
 I'm Erik Hyrkas. I'm a generalist. I code, but I also write science fiction and fantasy books, create video games, 
